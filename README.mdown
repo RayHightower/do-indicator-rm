@@ -1,0 +1,4 @@
+do-indicator-rm
+===
+
+Digital Ocean indicator based on Python work by Andrew Something and RubyMotion work by Elliott Draper.
