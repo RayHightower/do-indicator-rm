@@ -2,3 +2,5 @@ do-indicator-rm
 ===
 
 Digital Ocean indicator based on Python work by Andrew Something and RubyMotion work by Elliott Draper.
+
+RubyMotion version of andrewsomething's [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) 
