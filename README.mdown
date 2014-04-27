@@ -1,6 +1,17 @@
 do-indicator-rm
 ===
 
-Digital Ocean indicator based on Python work by Andrew Something and RubyMotion work by Elliott Draper.
+Digital Ocean indicator based on Python work by [Andrew Something](https://github.com/andrewsomething/digitalocean-indicator) and RubyMotion work by [Elliott Draper](https://github.com/kickcode/osx-status-bar-app-template).
 
-RubyMotion version of andrewsomething's [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) 
+This is a RubyMotion version of [andrewsomething's](http://blog.andrewsomething.com/) [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) 
+
+To run the app...
+===
+While the app is in development, it requires RubyMotion in order to run. 
+
+```bash
+$ git clone [this repo]
+$ cd [name of this repo on your machine]
+$ rake
+```
+
